@@ -1,0 +1,35 @@
+.footer {
+
+    padding: 20px;
+    text-align: center;
+    background: black;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    box-shadow: 0px 3px 15px  rgb(207, 58, 207);
+  }
+
+  .socialLinks svg{
+    color: white;
+    margin: 20px;
+    margin-bottom: 0;
+    font-size: 50px;
+    cursor: pointer;
+  }
+
+  .socialLinks svg:hover, svg:focus-visible {
+    color:  rgb(207, 58, 207);
+    transition: 1s;
+  }
+
+  .footer p {
+    color: white;
+    margin: 0;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .footer svg {
+      font-size: 50px;
+    }
+  }

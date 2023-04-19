@@ -1,0 +1,55 @@
+.portfolios {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+
+.portfolios h2 {
+    color: white;  
+    font-size: 30px;
+    text-shadow: 0 0 10px rgb(207, 58, 207);
+    transition: 1s;
+}
+
+.portfolios img {
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    box-shadow: 0px 3px 15px  rgb(207, 58, 207);
+    width: 75%;
+}
+
+.bgImage {
+    opacity: 0.3;
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+}
+
+.bgImage:hover  {
+    opacity: 1.0;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;
+}
+
+.portfolios p {
+    color: rgb(207, 58, 207);  
+    font-size: 30px; 
+}
+
+.portfolios svg{
+    color: white;
+    font-size: 60px; 
+    padding-inline: 5px;
+    margin-bottom: 5rem;
+}
+
+svg:hover, svg:focus-visible{
+    color:  rgb(207, 58, 207);
+    transition: 1s;
+    cursor: pointer;
+}
