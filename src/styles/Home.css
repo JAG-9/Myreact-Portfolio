@@ -12,8 +12,7 @@
 .spanHome{
     font-size: 45px;
     font-style: italic;
-    color: #FFFF33 ;
-    text-shadow: 0 0 10px #FFFF33;
+    color: #89db17 ;
 }
 
 .introContainer {
@@ -46,8 +45,7 @@
 .spanHome2, .codeMessage{
     font-size: 20px;
     font-style: italic;
-    color: #FFFF33 ;
-    text-shadow: 0 0 10px #FFFF33;
+    color:  #89db17 ;
 }
 
 .quoteContainer {
