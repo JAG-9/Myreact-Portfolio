@@ -1,13 +1,13 @@
 import './App.css';
 import { Routes, Route} from 'react-router-dom';
-import Home from './pages/Home';
-import About from './pages/About';
-import Portfolio from './pages/Portfolio';
-import Contact from './pages/Contact';
-import Navbar from './components/Nav';
-import Footer from './components/Footer';
-import Resume from './pages/Resume';
-import PorfolioProjectDisplay from './pages/PortfolioProjectDisplay';
+import Home from './src/pages/Home';
+import About from './src/pages/About';
+import Portfolio from './src/pages/Portfolio';
+import Contact from './src/pages/Contact';
+import Navbar from './src/components/Nav';
+import Footer from './src/components/Footer';
+import Resume from './src/pages/Resume';
+import PorfolioProjectDisplay from './src/pages/PortfolioProjectDisplay';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
