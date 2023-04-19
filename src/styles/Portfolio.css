@@ -21,13 +21,11 @@
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
 }
-/* PROJECTCARDS STYLING ADDED */
 .projectCards {
     border-radius: 15px;
     width: 300px;
     height: 300px;
     margin: 40px;
-    box-shadow: 0px 20px 35px rgb(41, 2, 34);
     text-align: center;
 }
 
@@ -43,12 +41,12 @@
 
 .projectCards h2, .titleNavsPage {
     font-size: 30px;  
-    text-shadow: 0 0 10px rgb(207, 58, 207);
+    text-shadow: 0 0 10px rgb(1, 153, 75);  
     transition: 1s;
 }
 
 .projectCards:hover {
-    box-shadow:  0px 3px 15px rgb(207, 58, 207);
+    box-shadow:  0px 3px 15px rgb(1, 153, 75);  
     cursor: pointer;
     transition: 0.3s ease-in;
 }

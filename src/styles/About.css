@@ -1,7 +1,6 @@
 .about {
     background-color: black;
     width: 100%;
-    /* height: calc(100vh - 100px); */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -29,37 +28,13 @@
 }
 
 .aboutMe h2 {
-    background-image: linear-gradient(20deg,#413C58,#c4c2bf, #544E41, rgb(207, 58, 207), pink );
     -webkit-background-clip: text;
     background-clip: text;
-    color: transparent;
+    color: rgb(1, 153, 75);
      margin: 2rem;
 }
 
-.skills {
-    font-size: 30px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-}
-
-.skills h1 {
-    margin:5rem 0 0;
-}
-
-.skillList h2, .skills h1 {
-    color: white;
-    list-style: none ;
-    text-shadow: 0 0 10px #FFFF33;
-  }
-
-.skillList {
-    color: rgb(207, 58, 207);
-    list-style: none ;  
-    font-size: 20px;
-}  
+ 
 
 @media only screen and (max-width:600px) {
     .introAbout h1 h2{
