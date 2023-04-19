@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//github.com/JAG-9/Myreact-Portfolio/static/css/main.7e912a9a.css",
-    "main.js": "//github.com/JAG-9/Myreact-Portfolio/static/js/main.e1b8f4d2.js",
-    "static/js/787.238fb1be.chunk.js": "//github.com/JAG-9/Myreact-Portfolio/static/js/787.238fb1be.chunk.js",
-    "static/media/DSC03115.jpg": "//github.com/JAG-9/Myreact-Portfolio/static/media/DSC03115.a79e682266ba135d97c8.jpg",
-    "static/media/fitfolio.png": "//github.com/JAG-9/Myreact-Portfolio/static/media/fitfolio.99112761115c32b0ea9d.png",
-    "static/media/dudewashmycar.gif": "//github.com/JAG-9/Myreact-Portfolio/static/media/dudewashmycar.043f755f6dd02eec60f7.gif",
-    "static/media/1643046473893.jpeg": "//github.com/JAG-9/Myreact-Portfolio/static/media/1643046473893.888f85019d79e217fedc.jpeg",
-    "static/media/passGen.png": "//github.com/JAG-9/Myreact-Portfolio/static/media/passGen.c4049d086e7bb30dd573.png",
-    "index.html": "//github.com/JAG-9/Myreact-Portfolio/index.html",
-    "main.7e912a9a.css.map": "//github.com/JAG-9/Myreact-Portfolio/static/css/main.7e912a9a.css.map",
-    "main.e1b8f4d2.js.map": "//github.com/JAG-9/Myreact-Portfolio/static/js/main.e1b8f4d2.js.map",
-    "787.238fb1be.chunk.js.map": "//github.com/JAG-9/Myreact-Portfolio/static/js/787.238fb1be.chunk.js.map"
+    "main.css": "/JAG-9/Myreact-Portfolio/static/css/main.7e912a9a.css",
+    "main.js": "/JAG-9/Myreact-Portfolio/static/js/main.ee886d2c.js",
+    "static/js/787.238fb1be.chunk.js": "/JAG-9/Myreact-Portfolio/static/js/787.238fb1be.chunk.js",
+    "static/media/DSC03115.jpg": "/JAG-9/Myreact-Portfolio/static/media/DSC03115.a79e682266ba135d97c8.jpg",
+    "static/media/fitfolio.png": "/JAG-9/Myreact-Portfolio/static/media/fitfolio.99112761115c32b0ea9d.png",
+    "static/media/dudewashmycar.gif": "/JAG-9/Myreact-Portfolio/static/media/dudewashmycar.043f755f6dd02eec60f7.gif",
+    "static/media/1643046473893.jpeg": "/JAG-9/Myreact-Portfolio/static/media/1643046473893.888f85019d79e217fedc.jpeg",
+    "static/media/passGen.png": "/JAG-9/Myreact-Portfolio/static/media/passGen.c4049d086e7bb30dd573.png",
+    "index.html": "/JAG-9/Myreact-Portfolio/index.html",
+    "main.7e912a9a.css.map": "/JAG-9/Myreact-Portfolio/static/css/main.7e912a9a.css.map",
+    "main.ee886d2c.js.map": "/JAG-9/Myreact-Portfolio/static/js/main.ee886d2c.js.map",
+    "787.238fb1be.chunk.js.map": "/JAG-9/Myreact-Portfolio/static/js/787.238fb1be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e912a9a.css",
-    "static/js/main.e1b8f4d2.js"
+    "static/js/main.ee886d2c.js"
   ]
 }
