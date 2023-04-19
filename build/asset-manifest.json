@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Myreact-Portfolio/static/css/main.7e912a9a.css",
+    "main.js": "/Myreact-Portfolio/static/js/main.3e12602e.js",
+    "static/js/787.238fb1be.chunk.js": "/Myreact-Portfolio/static/js/787.238fb1be.chunk.js",
+    "static/media/DSC03115.jpg": "/Myreact-Portfolio/static/media/DSC03115.a79e682266ba135d97c8.jpg",
+    "static/media/fitfolio.png": "/Myreact-Portfolio/static/media/fitfolio.99112761115c32b0ea9d.png",
+    "static/media/dudewashmycar.gif": "/Myreact-Portfolio/static/media/dudewashmycar.043f755f6dd02eec60f7.gif",
+    "static/media/1643046473893.jpeg": "/Myreact-Portfolio/static/media/1643046473893.888f85019d79e217fedc.jpeg",
+    "static/media/passGen.png": "/Myreact-Portfolio/static/media/passGen.c4049d086e7bb30dd573.png",
+    "index.html": "/Myreact-Portfolio/index.html",
+    "main.7e912a9a.css.map": "/Myreact-Portfolio/static/css/main.7e912a9a.css.map",
+    "main.3e12602e.js.map": "/Myreact-Portfolio/static/js/main.3e12602e.js.map",
+    "787.238fb1be.chunk.js.map": "/Myreact-Portfolio/static/js/787.238fb1be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e912a9a.css",
+    "static/js/main.3e12602e.js"
+  ]
+}
