@@ -8,7 +8,7 @@ export const PortfolioCards = [
    title: 'Fitfolio' ,
    image: fitfolio,
    github: 'https://github.com/JAG-9/fitfolio',
-   deployment: 'https://fitfolio.herokuapp.com/'
+   deployment: 'https://fitfolio-v2.herokuapp.com/'
 
 },
 

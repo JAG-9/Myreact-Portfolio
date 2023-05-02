@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import { validateEmail } from '../helpers/helper';
-import "../styles/Contact.css";
+
 
 function Contact() {
 
@@ -38,7 +38,7 @@ function Contact() {
        
         <div class="flex-column justify-content-center" id='contactDiv'>
           <h2 className='titleNavsPage'>Contact</h2> 
-          <p><b><i>Please contact me below!</i></b></p>
+  
 
           <form class=" flex-column justify-content-center" id="contact-form"   >
               <div>
